@@ -13,7 +13,7 @@ A full-stack task management application built with React, Node.js, and MongoDB.
 - Task status and priority management
 - Due date tracking
 
-## Tech Stack
+## Tech Stack 
 
 - Frontend: React.js with Material-UI
 - Backend: Node.js with Express
